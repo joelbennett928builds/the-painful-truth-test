@@ -73,4 +73,4 @@ Save yourself the lesson.
 
 ---
 
-*— Joe, [928 builds](https://928builds.com)*
+*— Joel Bennett, [928 builds](https://928builds.com)*
