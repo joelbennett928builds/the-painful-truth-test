@@ -17,7 +17,7 @@ Not "small business owners." Not "operators." A specific person in a specific jo
 
 If you can't name three real people who fit, you don't have an audience. You have a guess.
 
-> **Weak:** "Service businesses."
+> **Weak:** "Service businesses."  
 > **Strong:** "Owner-operators of mobile detailing businesses with 1–3 employees who manage bookings on paper and text messages."
 
 ---
@@ -28,7 +28,7 @@ What slows them down, frustrates them, costs them money, or makes them look bad?
 
 Vague pain is not pain. Specific pain is.
 
-> **Weak:** "Their workflow could be better."
+> **Weak:** "Their workflow could be better."  
 > **Strong:** "Every Sunday night they spend two hours rebuilding next week's schedule in a notebook because three customers cancelled and four rescheduled by text."
 
 ---
@@ -70,7 +70,3 @@ If any of these five is fuzzy, the right move is **more conversations, not more 
 Built and shipped several things nobody wanted before learning to ask these questions first. The cost of one ignored launch is bigger than the cost of ten conversations.
 
 Save yourself the lesson.
-
----
-
-*— Joel Bennett, [928 builds](https://928builds.com)*
