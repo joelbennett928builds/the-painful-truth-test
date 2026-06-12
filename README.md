@@ -70,3 +70,5 @@ If any of these five is fuzzy, the right move is **more conversations, not more 
 Built and shipped several things nobody wanted before learning to ask these questions first. The cost of one ignored launch is bigger than the cost of ten conversations.
 
 Save yourself the lesson.
+
+*Joel Bennett · Founder, 928 Builds · Tucson, AZ · 928builds.com*
